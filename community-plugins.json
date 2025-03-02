@@ -15657,5 +15657,12 @@
     "author": "Devon22",
     "description": "Browse note files in a grid view.",
     "repo": "Devon22/obsidian-gridexplorer"  
+  },
+  {
+    "id": "components",
+    "name": "Components",
+    "author": "luisbs",
+    "description": "Plugin to use custom visual elements on notes",
+    "repo": "luisbs/obsidian-components"
   }
 ]
